@@ -1,0 +1,13 @@
+---
+- !ruby/object:Book
+  title: Javascript
+  author: Douglas Crockford
+  category: :development
+- !ruby/object:Book
+  title: Design
+  author: Damian Sowers
+  category: :design
+- !ruby/object:Book
+  title: Don't make me think
+  author: Steve Krug
+  category: :development
